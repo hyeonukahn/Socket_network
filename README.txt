@@ -1,7 +1,6 @@
 This program is simple chat program made by python 3.x
 
 You should run the server first, than client
-This program is made by 전기전자공학부 2016170919 안현욱
 The server can hold total 20 clients
 It works completly in localhost network,
 but this program may not run if the server and client is conneted with internet.
