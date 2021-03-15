@@ -1,4 +1,5 @@
 This program is simple chat program made by python 3.x
+This program is coded in Ubuntu 18.04
 
 You should run the server first, than client
 The server can hold total 20 clients
